@@ -1,0 +1,91 @@
+{
+  "services": [
+    {
+      "id": "surat-keterangan",
+      "title": "Surat Keterangan",
+      "icon": "fas fa-file-alt",
+      "description": "Pengurusan berbagai surat keterangan seperti domisili, tidak mampu, usaha, dll.",
+      "requirements": ["Fotocopy KTP", "Fotocopy KK", "Pas foto 3x4 (2 lembar)", "Surat pengantar RT/RW"],
+      "processingTime": "1-3 hari kerja",
+      "cost": "Gratis"
+    },
+    {
+      "id": "administrasi-ktp",
+      "title": "Administrasi KTP",
+      "icon": "fas fa-id-card",
+      "description": "Bantuan pengurusan KTP, KK, dan dokumen kependudukan lainnya.",
+      "requirements": ["Formulir permohonan", "Fotocopy KK lama", "Fotocopy akta kelahiran", "Pas foto 4x6 (3 lembar)"],
+      "processingTime": "7-14 hari kerja",
+      "cost": "Sesuai tarif Disdukcapil"
+    },
+    {
+      "id": "bantuan-sosial",
+      "title": "Bantuan Sosial",
+      "icon": "fas fa-heart",
+      "description": "Informasi dan pendaftaran program bantuan sosial pemerintah.",
+      "requirements": [
+        "Surat keterangan tidak mampu",
+        "Fotocopy KTP dan KK",
+        "Surat keterangan penghasilan",
+        "Foto rumah dan kondisi keluarga"
+      ],
+      "processingTime": "Sesuai jadwal program",
+      "cost": "Gratis"
+    },
+    {
+      "id": "konsultasi-pertanian",
+      "title": "Pertanian",
+      "icon": "fas fa-seedling",
+      "description": "Konsultasi dan bantuan teknis untuk kegiatan pertanian.",
+      "requirements": ["Fotocopy KTP", "Surat keterangan lahan", "Proposal kegiatan (jika ada)", "Foto lokasi lahan"],
+      "processingTime": "Konsultasi langsung",
+      "cost": "Gratis"
+    }
+  ],
+  "serviceTypes": [
+    {
+      "value": "",
+      "label": "Pilih Layanan"
+    },
+    {
+      "value": "surat-domisili",
+      "label": "Surat Keterangan Domisili"
+    },
+    {
+      "value": "surat-tidak-mampu",
+      "label": "Surat Keterangan Tidak Mampu"
+    },
+    {
+      "value": "surat-usaha",
+      "label": "Surat Keterangan Usaha"
+    },
+    {
+      "value": "bantuan-ktp",
+      "label": "Bantuan Pengurusan KTP"
+    },
+    {
+      "value": "bantuan-kk",
+      "label": "Bantuan Pengurusan KK"
+    },
+    {
+      "value": "bantuan-sosial",
+      "label": "Bantuan Sosial"
+    },
+    {
+      "value": "konsultasi-pertanian",
+      "label": "Konsultasi Pertanian"
+    },
+    {
+      "value": "izin-keramaian",
+      "label": "Izin Keramaian"
+    },
+    {
+      "value": "surat-kelahiran",
+      "label": "Surat Keterangan Kelahiran"
+    },
+    {
+      "value": "surat-kematian",
+      "label": "Surat Keterangan Kematian"
+    }
+  ]
+}

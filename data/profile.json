@@ -1,0 +1,103 @@
+{
+  "profile": {
+    "history": {
+      "title": "Sejarah Desa",
+      "icon": "fas fa-history",
+      "content": [
+        "Desa Sejahtera didirikan pada tahun 1945 bersamaan dengan kemerdekaan Indonesia. Awalnya, desa ini merupakan pemukiman kecil yang dihuni oleh para pejuang kemerdekaan yang memutuskan untuk menetap dan mengembangkan wilayah ini menjadi desa yang produktif.",
+        "Pada tahun 1960-an, desa ini mulai berkembang dengan program transmigrasi yang membawa penduduk dari berbagai daerah. Keberagaman ini menjadi kekuatan desa dalam mengembangkan berbagai sektor, mulai dari pertanian, peternakan, hingga kerajinan tradisional.",
+        "Memasuki era reformasi, Desa Sejahtera terus bertransformasi menjadi desa modern dengan tetap mempertahankan nilai-nilai tradisional dan kearifan lokal. Berbagai program pembangunan infrastruktur dan pemberdayaan masyarakat terus dilakukan untuk meningkatkan kesejahteraan warga."
+      ]
+    },
+    "vision": {
+      "title": "Visi",
+      "icon": "fas fa-eye",
+      "content": "Mewujudkan Desa Sejahtera sebagai desa yang maju, mandiri, dan sejahtera berdasarkan nilai-nilai gotong royong dan kearifan lokal pada tahun 2030"
+    },
+    "mission": {
+      "title": "Misi",
+      "icon": "fas fa-bullseye",
+      "content": [
+        "Meningkatkan kualitas sumber daya manusia melalui pendidikan dan pelatihan keterampilan",
+        "Mengembangkan potensi ekonomi desa berbasis pertanian dan UMKM",
+        "Membangun infrastruktur desa yang mendukung aktivitas ekonomi dan sosial masyarakat",
+        "Melestarikan lingkungan hidup dan kearifan lokal",
+        "Meningkatkan kualitas pelayanan publik yang transparan dan akuntabel",
+        "Memperkuat nilai-nilai gotong royong dan kebersamaan dalam kehidupan bermasyarakat"
+      ]
+    },
+    "map": {
+      "title": "Peta Wilayah Desa",
+      "icon": "fas fa-map",
+      "image": "/placeholder.svg?height=400&width=600",
+      "legend": [
+        {
+          "color": "#4CAF50",
+          "label": "Area Persawahan"
+        },
+        {
+          "color": "#2196F3",
+          "label": "Area Pemukiman"
+        },
+        {
+          "color": "#FF9800",
+          "label": "Area Perkebunan"
+        },
+        {
+          "color": "#9C27B0",
+          "label": "Fasilitas Umum"
+        },
+        {
+          "color": "#607D8B",
+          "label": "Jalan Utama"
+        }
+      ]
+    },
+    "leadership": {
+      "title": "Struktur Pemerintahan Desa",
+      "icon": "fas fa-users-cog",
+      "positions": [
+        {
+          "title": "Kepala Desa",
+          "name": "H. Ahmad Suryanto, S.Sos",
+          "period": "2019-2025"
+        },
+        {
+          "title": "Sekretaris Desa",
+          "name": "Drs. Bambang Wijaya",
+          "period": "2020-2026"
+        },
+        {
+          "title": "Kaur Pemerintahan",
+          "name": "Siti Nurhaliza, S.AP",
+          "period": "2020-2026"
+        },
+        {
+          "title": "Kaur Pembangunan",
+          "name": "Ir. Joko Susilo",
+          "period": "2020-2026"
+        },
+        {
+          "title": "Kaur Kesejahteraan",
+          "name": "Dr. Rina Sari, S.Sos",
+          "period": "2020-2026"
+        },
+        {
+          "title": "Kaur Keuangan",
+          "name": "Andi Pratama, S.E",
+          "period": "2020-2026"
+        },
+        {
+          "title": "Kadus I (Mawar)",
+          "name": "Usman Hakim",
+          "period": "2019-2025"
+        },
+        {
+          "title": "Kadus II (Melati)",
+          "name": "Sari Dewi",
+          "period": "2019-2025"
+        }
+      ]
+    }
+  }
+}
